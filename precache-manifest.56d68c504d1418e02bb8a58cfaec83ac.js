@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16f9fcec304ca71edae9a50f45f26f77",
+    "revision": "fa33f48bffebc2b1bb36dad082b319c0",
     "url": "/index.html"
   },
   {
-    "revision": "5160d0ae8dc8a7a4e05a",
+    "revision": "8669705acae92330793a",
     "url": "/static/css/2.3a31c521.chunk.css"
   },
   {
-    "revision": "20d0abeeb0b05e1446e5",
-    "url": "/static/css/main.ad30cbb9.chunk.css"
+    "revision": "2c6fbf786e6527399a8a",
+    "url": "/static/css/main.c524e93b.chunk.css"
   },
   {
-    "revision": "5160d0ae8dc8a7a4e05a",
-    "url": "/static/js/2.cf394ff9.chunk.js"
+    "revision": "8669705acae92330793a",
+    "url": "/static/js/2.94448f20.chunk.js"
   },
   {
-    "revision": "1b9f3bf752a877bd1a04dbbaede1ef59",
-    "url": "/static/js/2.cf394ff9.chunk.js.LICENSE.txt"
+    "revision": "f5b29c001ef40f64f6fc0017f1408601",
+    "url": "/static/js/2.94448f20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20d0abeeb0b05e1446e5",
-    "url": "/static/js/main.c4dbc246.chunk.js"
+    "revision": "2c6fbf786e6527399a8a",
+    "url": "/static/js/main.5cd39e16.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -40,16 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MongoDB_Logo.25bd805f.svg"
   },
   {
-    "revision": "aeaad22507e93f43ec3bed05a90f4c53",
-    "url": "/static/media/PingScript.aeaad225.rar"
-  },
-  {
     "revision": "30cc0a7facf30e0d5d308e51d5d5583c",
     "url": "/static/media/Poppins-Regular.30cc0a7f.woff"
   },
   {
-    "revision": "89be2d67a12ef580d74880b8821dcd3b",
-    "url": "/static/media/about.89be2d67.jpg"
+    "revision": "ca24646b9c15972e7708216968db151e",
+    "url": "/static/media/about.ca24646b.jpg"
+  },
+  {
+    "revision": "df2e702629c1a73e440349c602142828",
+    "url": "/static/media/android.df2e7026.png"
   },
   {
     "revision": "ce282a06aa2f559bfd1f00ebfc2bbf88",
@@ -180,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/reactJS.d14e4fd3.png"
   },
   {
-    "revision": "7eeeaeec6875e6c3e6d8b36d6427d8ec",
-    "url": "/static/media/sendemail.7eeeaeec.ps1"
+    "revision": "8e766e9562509cb3fa14264580c5c0f9",
+    "url": "/static/media/sass.8e766e95.svg"
   }
 ]);
